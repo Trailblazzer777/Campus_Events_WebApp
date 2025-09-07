@@ -72,12 +72,12 @@ The Campus Events Management System is a web application designed to manage camp
                        │ created_by      │    │   Attendance    │
                        │ created_at      │    ├─────────────────┤
                        └─────────────────┘    │ id (PK)         │
-                                             │ student_id (FK) │
-                                             │ event_id (FK)   │
-                                             │ check_in_time   │
-                                             │ check_out_time  │
-                                             │ status          │
-                                             └─────────────────┘
+                                              │ student_id (FK) │
+                                              │ event_id (FK)   │
+                                              │ check_in_time   │
+                                              │ check_out_time  │
+                                              │ status          │
+                                              └─────────────────┘
                                                       │
                                                       ▼
                                              ┌─────────────────┐

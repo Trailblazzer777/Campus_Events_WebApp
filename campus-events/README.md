@@ -14,6 +14,8 @@ I also faced problems like stopping duplicate registrations, handling cancelled 
 
 -Required AI conversation links are in docs folder
 
+-All the output snippets are in reports folder
+
 -In future I want to add login system, email notifications, better mobile design and an admin dashboard with more details.
 
 --Made by Vinay R R22EJ066 CSIT 'B' Reva University
